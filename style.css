@@ -1,0 +1,193 @@
+
+body{
+  margin: 20px;
+}
+
+table {
+    margin-bottom: 15px;
+    border-collapse: separate;
+    border-spacing: 0; 
+    height: 505px;
+    width: 735px;
+  }
+  
+  td {
+    border: 2mm solid black; 
+    border-right: none;
+    border-bottom: none; 
+    background-color: transparent; 
+  }
+
+  tr:nth-child(1) td:nth-child(1) {
+    width: 9mm;
+    height: 21mm;
+  }
+  tr:nth-child(1) td:nth-child(2) {
+    width: 71mm;
+    height: 5mm;
+  }
+  tr:nth-child(1) td:nth-child(3) {
+    width: 82mm;
+    height: 5mm;
+  }
+  tr:nth-child(1) td:nth-child(4) {
+    width: 10mm;
+    height: 50mm;
+  }
+  tr:nth-child(1) td:nth-child(5) {
+    width: 8mm;
+    height: 50mm;
+    background-color: rgb(245, 192, 0);
+    border-right: 2mm solid black;
+  }
+  tr:nth-child(2) td:nth-child(1) {
+    width: 71mm;
+    height: 15mm;
+    background-color: rgb(17, 17, 111);
+  }
+  tr:nth-child(2) td:nth-child(2) {
+    width: 22mm;
+    height: 15mm;
+  }
+  tr:nth-child(2) td:nth-child(3) {
+    width: 40mm;
+    height: 15mm;
+    background-color: rgb(17, 17, 111);
+  }
+  tr:nth-child(3) td:nth-child(1) {
+    width: 9mm;
+    height: 52mm;
+    background-color: black;
+  }
+  tr:nth-child(3) td:nth-child(2) {
+    width: 21mm;
+    height: 52mm;
+  }
+  tr:nth-child(3) td:nth-child(3) {
+    width: 9mm;
+    height: 75mm;
+    background-color: black;
+  }
+  tr:nth-child(3) td:nth-child(4) {
+    width: 21mm;
+    height: 37mm;
+  }
+  tr:nth-child(3) td:nth-child(5) {
+    width: 7mm;
+    height: 37mm;
+  }
+  tr:nth-child(3) td:nth-child(6) {
+    width: 30mm;
+    height: 37mm;
+    background-color: rgb(245, 192, 0);
+  }
+  tr:nth-child(3) td:nth-child(7) {
+    width: 40mm;
+    height: 37mm;
+    background-color: rgb(210, 0, 0);
+  }
+  tr:nth-child(3) td:nth-child(8) {
+    width: 1mm;
+    height: 37mm;
+    background-color: rgb(210, 0, 0);
+    border-left: none;
+  }
+  tr:nth-child(3) td:nth-child(9) {
+    width: 10mm;
+    height: 37mm;
+    background-color: rgb(210, 0, 0);
+  }
+  tr:nth-child(4) td:nth-child(1) {
+    width: 8mm;
+    height: 14mm;
+    background-color: rgb(245, 192, 0);
+  }
+  tr:nth-child(4) td:nth-child(2) {
+    width: 25mm;
+    height: 14mm;
+    background-color: rgb(210, 0, 0);
+  }
+  tr:nth-child(4) td:nth-child(3) {
+    width: 23mm;
+    height: 14mm;
+    background-color: rgb(17, 17, 111);
+  }
+  tr:nth-child(4) td:nth-child(4) {
+    width: 32mm;
+    height: 14mm;
+  }
+  tr:nth-child(4) td:nth-child(5) {
+    width: 10mm;
+    height: 14mm;
+  }
+  tr:nth-child(4) td:nth-child(6) {
+    width: 21mm;
+    height: 14mm;
+    background-color: black;
+    border-right: 2mm solid black;
+  }
+  tr:nth-child(5) td:nth-child(1) {
+    width: 9mm;
+    height: 30mm;
+  }
+  tr:nth-child(5) td:nth-child(2) {
+    width: 21mm;
+    height: 30mm;
+    background-color: rgb(210, 0, 0);
+  }
+  tr:nth-child(5) td:nth-child(3) {
+    width: 8mm;
+    height: 39mm;
+    background-color: rgb(245, 192, 0);
+    border-bottom: 2mm solid black;
+
+  }
+  tr:nth-child(5) td:nth-child(4) {
+    width: 46mm;
+    height: 30mm;
+  }
+  tr:nth-child(5) td:nth-child(5) {
+    width: 10mm;
+    height: 30mm;
+  }
+  tr:nth-child(5) td:nth-child(6) {
+    width: 10mm;
+    height: 30mm;   
+    background-color: rgb(17, 17, 111);
+  }
+  tr:nth-child(5) td:nth-child(7) {
+    width: 10mm;
+    height: 30mm;
+    background-color: rgb(245, 192, 0);
+  }
+  tr:nth-child(5) td:nth-child(8) {
+    width: 21mm;
+    height: 30mm;
+    border-right: 2mm solid black;
+  }
+  tr:nth-child(6) td:nth-child(1) {
+    width: 25mm;
+    height: 10mm;
+    background-color: rgb(210, 0, 0);
+    border-bottom: 2mm solid black;
+  }
+  tr:nth-child(6) td:nth-child(2) {
+    width: 35mm;
+    height: 10mm;
+    background-color: black;
+    border-bottom: 2mm solid black;
+
+  }
+  tr:nth-child(6) td:nth-child(3) {
+    width: 35mm;
+    height: 10mm;
+    border-right: 2mm solid black;
+    border-bottom: 2mm solid black;
+
+  }
+  tr:nth-child(7) td:nth-child(1) {
+    width: 30mm;
+    height: 10mm;
+    border-bottom: 2mm solid black;
+  }
+ 
